@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **State Machines with XState**
 - 💬 Ask me about **TypeScript, React, and Jest—or Functional Programming!**
-- ⚡ Fun fact—**I'm a runner and have completed two marathons 🏃🏻‍♂️**
+- ⚡ Fun fact—**I'm a runner and have completed 4 marathons (including Boston) 🏃🏻‍♂️**
 - 📫 How to reach me **roblafeve@gmail.com**
 
 <h3 align="left">Connect with me</h3>
